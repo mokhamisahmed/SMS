@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+    <PackageReference Include="FluentValidation" Version="11.11.0" />
+    <PackageReference Include="MediatR" Version="12.4.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SMS.Service\SMS.Service.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Features\ClassCore\Query\" />
+    <Folder Include="Features\DepartmentCore\Query\Entities\" />
+    <Folder Include="Features\DepartmentCore\Query\Handlers\" />
+    <Folder Include="Features\ExamCore\Query\Handlers\" />
+    <Folder Include="Features\ExamCore\Query\Entities\" />
+    <Folder Include="Features\RoleCore\Query\" />
+    <Folder Include="Features\StudentCore\Query\" />
+    <Folder Include="Features\UserCore\Query\" />
+  </ItemGroup>
+
+</Project>

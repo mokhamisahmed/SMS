@@ -1,0 +1,17 @@
+E:\,Net Projects\SMS\SMS.Infrastructure\bin\Debug\net8.0\SMS.Infrastructure.deps.json
+E:\,Net Projects\SMS\SMS.Infrastructure\bin\Debug\net8.0\SMS.Infrastructure.runtimeconfig.json
+E:\,Net Projects\SMS\SMS.Infrastructure\bin\Debug\net8.0\SMS.Infrastructure.dll
+E:\,Net Projects\SMS\SMS.Infrastructure\bin\Debug\net8.0\SMS.Infrastructure.pdb
+E:\,Net Projects\SMS\SMS.Infrastructure\bin\Debug\net8.0\SMS.Data.dll
+E:\,Net Projects\SMS\SMS.Infrastructure\bin\Debug\net8.0\SMS.Data.pdb
+E:\,Net Projects\SMS\SMS.Infrastructure\obj\Debug\net8.0\SMS.Infrastructure.csproj.AssemblyReference.cache
+E:\,Net Projects\SMS\SMS.Infrastructure\obj\Debug\net8.0\SMS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\,Net Projects\SMS\SMS.Infrastructure\obj\Debug\net8.0\SMS.Infrastructure.AssemblyInfoInputs.cache
+E:\,Net Projects\SMS\SMS.Infrastructure\obj\Debug\net8.0\SMS.Infrastructure.AssemblyInfo.cs
+E:\,Net Projects\SMS\SMS.Infrastructure\obj\Debug\net8.0\SMS.Infrastructure.csproj.CoreCompileInputs.cache
+E:\,Net Projects\SMS\SMS.Infrastructure\obj\Debug\net8.0\SMS.Infr.1FC43FD4.Up2Date
+E:\,Net Projects\SMS\SMS.Infrastructure\obj\Debug\net8.0\SMS.Infrastructure.dll
+E:\,Net Projects\SMS\SMS.Infrastructure\obj\Debug\net8.0\refint\SMS.Infrastructure.dll
+E:\,Net Projects\SMS\SMS.Infrastructure\obj\Debug\net8.0\SMS.Infrastructure.pdb
+E:\,Net Projects\SMS\SMS.Infrastructure\obj\Debug\net8.0\SMS.Infrastructure.genruntimeconfig.cache
+E:\,Net Projects\SMS\SMS.Infrastructure\obj\Debug\net8.0\ref\SMS.Infrastructure.dll

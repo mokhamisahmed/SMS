@@ -1,0 +1,12 @@
+E:\,Net Projects\SMS\SMS.Data\bin\Debug\net8.0\SMS.Data.deps.json
+E:\,Net Projects\SMS\SMS.Data\bin\Debug\net8.0\SMS.Data.dll
+E:\,Net Projects\SMS\SMS.Data\bin\Debug\net8.0\SMS.Data.pdb
+E:\,Net Projects\SMS\SMS.Data\obj\Debug\net8.0\SMS.Data.csproj.AssemblyReference.cache
+E:\,Net Projects\SMS\SMS.Data\obj\Debug\net8.0\SMS.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\,Net Projects\SMS\SMS.Data\obj\Debug\net8.0\SMS.Data.AssemblyInfoInputs.cache
+E:\,Net Projects\SMS\SMS.Data\obj\Debug\net8.0\SMS.Data.AssemblyInfo.cs
+E:\,Net Projects\SMS\SMS.Data\obj\Debug\net8.0\SMS.Data.csproj.CoreCompileInputs.cache
+E:\,Net Projects\SMS\SMS.Data\obj\Debug\net8.0\SMS.Data.dll
+E:\,Net Projects\SMS\SMS.Data\obj\Debug\net8.0\refint\SMS.Data.dll
+E:\,Net Projects\SMS\SMS.Data\obj\Debug\net8.0\SMS.Data.pdb
+E:\,Net Projects\SMS\SMS.Data\obj\Debug\net8.0\ref\SMS.Data.dll

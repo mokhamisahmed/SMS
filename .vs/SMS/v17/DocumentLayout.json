@@ -1,0 +1,1657 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\,Net Projects\\SMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF8BC89-2B40-44AD-AFB2-7071ECA14E18}|SMS.Infrastructure\\SMS.Infrastructure.csproj|e:\\,net projects\\sms\\sms.infrastructure\\repositories\\repos\\examtyperepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF8BC89-2B40-44AD-AFB2-7071ECA14E18}|SMS.Infrastructure\\SMS.Infrastructure.csproj|solutionrelative:sms.infrastructure\\repositories\\repos\\examtyperepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0886705-0521-4854-AACE-730844BEDC30}|SMS.Service\\SMS.Service.csproj|e:\\,net projects\\sms\\sms.service\\services\\studentexamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0886705-0521-4854-AACE-730844BEDC30}|SMS.Service\\SMS.Service.csproj|solutionrelative:sms.service\\services\\studentexamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0886705-0521-4854-AACE-730844BEDC30}|SMS.Service\\SMS.Service.csproj|e:\\,net projects\\sms\\sms.service\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0886705-0521-4854-AACE-730844BEDC30}|SMS.Service\\SMS.Service.csproj|solutionrelative:sms.service\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3866BD25-3753-4D86-ABC7-988390014B17}|SMS.Data\\SMS.Data.csproj|e:\\,net projects\\sms\\sms.data\\entities\\studentregistrationexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3866BD25-3753-4D86-ABC7-988390014B17}|SMS.Data\\SMS.Data.csproj|solutionrelative:sms.data\\entities\\studentregistrationexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3866BD25-3753-4D86-ABC7-988390014B17}|SMS.Data\\SMS.Data.csproj|e:\\,net projects\\sms\\sms.data\\entities\\examtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3866BD25-3753-4D86-ABC7-988390014B17}|SMS.Data\\SMS.Data.csproj|solutionrelative:sms.data\\entities\\examtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3866BD25-3753-4D86-ABC7-988390014B17}|SMS.Data\\SMS.Data.csproj|e:\\,net projects\\sms\\sms.data\\entities\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3866BD25-3753-4D86-ABC7-988390014B17}|SMS.Data\\SMS.Data.csproj|solutionrelative:sms.data\\entities\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\,Net Projects\\SMS\\SMS.Infrastructure\\Migrations\\20241213161212_t.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SMS.Infrastructure\\Migrations\\20241213161212_t.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\,Net Projects\\SMS\\SMS.Infrastructure\\Migrations\\20241213141507_t.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SMS.Infrastructure\\Migrations\\20241213141507_t.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DAC199-2B12-44B3-9D77-21F94D1919EB}|SMS\\SMS.csproj|e:\\,net projects\\sms\\sms\\controllers\\studentexamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08DAC199-2B12-44B3-9D77-21F94D1919EB}|SMS\\SMS.csproj|solutionrelative:sms\\controllers\\studentexamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DAC199-2B12-44B3-9D77-21F94D1919EB}|SMS\\SMS.csproj|e:\\,net projects\\sms\\sms\\controllers\\examcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08DAC199-2B12-44B3-9D77-21F94D1919EB}|SMS\\SMS.csproj|solutionrelative:sms\\controllers\\examcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0886705-0521-4854-AACE-730844BEDC30}|SMS.Service\\SMS.Service.csproj|e:\\,net projects\\sms\\sms.service\\interfaces\\iclassservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0886705-0521-4854-AACE-730844BEDC30}|SMS.Service\\SMS.Service.csproj|solutionrelative:sms.service\\interfaces\\iclassservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0886705-0521-4854-AACE-730844BEDC30}|SMS.Service\\SMS.Service.csproj|e:\\,net projects\\sms\\sms.service\\services\\classservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0886705-0521-4854-AACE-730844BEDC30}|SMS.Service\\SMS.Service.csproj|solutionrelative:sms.service\\services\\classservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|e:\\,net projects\\sms\\sms.core\\features\\studentcore\\command\\handlers\\studentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|solutionrelative:sms.core\\features\\studentcore\\command\\handlers\\studentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|e:\\,net projects\\sms\\sms.core\\features\\examcore\\command\\handlers\\examcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|solutionrelative:sms.core\\features\\examcore\\command\\handlers\\examcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|e:\\,net projects\\sms\\sms.core\\features\\classcore\\command\\handlers\\classcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|solutionrelative:sms.core\\features\\classcore\\command\\handlers\\classcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF8BC89-2B40-44AD-AFB2-7071ECA14E18}|SMS.Infrastructure\\SMS.Infrastructure.csproj|e:\\,net projects\\sms\\sms.infrastructure\\repositories\\interfaces\\iexamrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF8BC89-2B40-44AD-AFB2-7071ECA14E18}|SMS.Infrastructure\\SMS.Infrastructure.csproj|solutionrelative:sms.infrastructure\\repositories\\interfaces\\iexamrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0886705-0521-4854-AACE-730844BEDC30}|SMS.Service\\SMS.Service.csproj|e:\\,net projects\\sms\\sms.service\\interfaces\\iexamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0886705-0521-4854-AACE-730844BEDC30}|SMS.Service\\SMS.Service.csproj|solutionrelative:sms.service\\interfaces\\iexamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF8BC89-2B40-44AD-AFB2-7071ECA14E18}|SMS.Infrastructure\\SMS.Infrastructure.csproj|e:\\,net projects\\sms\\sms.infrastructure\\repositories\\interfaces\\iexamtyperepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF8BC89-2B40-44AD-AFB2-7071ECA14E18}|SMS.Infrastructure\\SMS.Infrastructure.csproj|solutionrelative:sms.infrastructure\\repositories\\interfaces\\iexamtyperepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF8BC89-2B40-44AD-AFB2-7071ECA14E18}|SMS.Infrastructure\\SMS.Infrastructure.csproj|e:\\,net projects\\sms\\sms.infrastructure\\repositories\\repos\\examrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF8BC89-2B40-44AD-AFB2-7071ECA14E18}|SMS.Infrastructure\\SMS.Infrastructure.csproj|solutionrelative:sms.infrastructure\\repositories\\repos\\examrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0886705-0521-4854-AACE-730844BEDC30}|SMS.Service\\SMS.Service.csproj|e:\\,net projects\\sms\\sms.service\\services\\examservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0886705-0521-4854-AACE-730844BEDC30}|SMS.Service\\SMS.Service.csproj|solutionrelative:sms.service\\services\\examservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF8BC89-2B40-44AD-AFB2-7071ECA14E18}|SMS.Infrastructure\\SMS.Infrastructure.csproj|e:\\,net projects\\sms\\sms.infrastructure\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF8BC89-2B40-44AD-AFB2-7071ECA14E18}|SMS.Infrastructure\\SMS.Infrastructure.csproj|solutionrelative:sms.infrastructure\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF8BC89-2B40-44AD-AFB2-7071ECA14E18}|SMS.Infrastructure\\SMS.Infrastructure.csproj|e:\\,net projects\\sms\\sms.infrastructure\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF8BC89-2B40-44AD-AFB2-7071ECA14E18}|SMS.Infrastructure\\SMS.Infrastructure.csproj|solutionrelative:sms.infrastructure\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|e:\\,net projects\\sms\\sms.core\\features\\examcore\\command\\entities\\addexamcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|solutionrelative:sms.core\\features\\examcore\\command\\entities\\addexamcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0886705-0521-4854-AACE-730844BEDC30}|SMS.Service\\SMS.Service.csproj|e:\\,net projects\\sms\\sms.service\\interfaces\\istudentexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0886705-0521-4854-AACE-730844BEDC30}|SMS.Service\\SMS.Service.csproj|solutionrelative:sms.service\\interfaces\\istudentexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF8BC89-2B40-44AD-AFB2-7071ECA14E18}|SMS.Infrastructure\\SMS.Infrastructure.csproj|e:\\,net projects\\sms\\sms.infrastructure\\repositories\\repos\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF8BC89-2B40-44AD-AFB2-7071ECA14E18}|SMS.Infrastructure\\SMS.Infrastructure.csproj|solutionrelative:sms.infrastructure\\repositories\\repos\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF8BC89-2B40-44AD-AFB2-7071ECA14E18}|SMS.Infrastructure\\SMS.Infrastructure.csproj|e:\\,net projects\\sms\\sms.infrastructure\\repositories\\interfaces\\idepartmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF8BC89-2B40-44AD-AFB2-7071ECA14E18}|SMS.Infrastructure\\SMS.Infrastructure.csproj|solutionrelative:sms.infrastructure\\repositories\\interfaces\\idepartmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF8BC89-2B40-44AD-AFB2-7071ECA14E18}|SMS.Infrastructure\\SMS.Infrastructure.csproj|e:\\,net projects\\sms\\sms.infrastructure\\repositories\\repos\\departmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF8BC89-2B40-44AD-AFB2-7071ECA14E18}|SMS.Infrastructure\\SMS.Infrastructure.csproj|solutionrelative:sms.infrastructure\\repositories\\repos\\departmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF8BC89-2B40-44AD-AFB2-7071ECA14E18}|SMS.Infrastructure\\SMS.Infrastructure.csproj|e:\\,net projects\\sms\\sms.infrastructure\\repositories\\interfaces\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF8BC89-2B40-44AD-AFB2-7071ECA14E18}|SMS.Infrastructure\\SMS.Infrastructure.csproj|solutionrelative:sms.infrastructure\\repositories\\interfaces\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3866BD25-3753-4D86-ABC7-988390014B17}|SMS.Data\\SMS.Data.csproj|e:\\,net projects\\sms\\sms.data\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3866BD25-3753-4D86-ABC7-988390014B17}|SMS.Data\\SMS.Data.csproj|solutionrelative:sms.data\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF8BC89-2B40-44AD-AFB2-7071ECA14E18}|SMS.Infrastructure\\SMS.Infrastructure.csproj|e:\\,net projects\\sms\\sms.infrastructure\\repositories\\interfaces\\istudentregistrationexamrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF8BC89-2B40-44AD-AFB2-7071ECA14E18}|SMS.Infrastructure\\SMS.Infrastructure.csproj|solutionrelative:sms.infrastructure\\repositories\\interfaces\\istudentregistrationexamrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|e:\\,net projects\\sms\\sms.core\\features\\studentregistrationexamcore\\query\\handlers\\studentexamhandlerquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|solutionrelative:sms.core\\features\\studentregistrationexamcore\\query\\handlers\\studentexamhandlerquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF8BC89-2B40-44AD-AFB2-7071ECA14E18}|SMS.Infrastructure\\SMS.Infrastructure.csproj|e:\\,net projects\\sms\\sms.infrastructure\\repositories\\repos\\studentregistrationrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF8BC89-2B40-44AD-AFB2-7071ECA14E18}|SMS.Infrastructure\\SMS.Infrastructure.csproj|solutionrelative:sms.infrastructure\\repositories\\repos\\studentregistrationrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|e:\\,net projects\\sms\\sms.core\\features\\studentregistrationexamcore\\query\\entities\\getstudentsexamquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|solutionrelative:sms.core\\features\\studentregistrationexamcore\\query\\entities\\getstudentsexamquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|e:\\,net projects\\sms\\sms.core\\features\\subjectcore\\handlers\\subjectcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|solutionrelative:sms.core\\features\\subjectcore\\handlers\\subjectcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|e:\\,net projects\\sms\\sms.core\\features\\studentregistrationexamcore\\command\\entities\\addstudentexamcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|solutionrelative:sms.core\\features\\studentregistrationexamcore\\command\\entities\\addstudentexamcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|e:\\,net projects\\sms\\sms.core\\features\\studentregistrationexamcore\\command\\handlers\\studentexamhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|solutionrelative:sms.core\\features\\studentregistrationexamcore\\command\\handlers\\studentexamhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0886705-0521-4854-AACE-730844BEDC30}|SMS.Service\\SMS.Service.csproj|e:\\,net projects\\sms\\sms.service\\interfaces\\iexamtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0886705-0521-4854-AACE-730844BEDC30}|SMS.Service\\SMS.Service.csproj|solutionrelative:sms.service\\interfaces\\iexamtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|e:\\,net projects\\sms\\sms.core\\features\\classcore\\command\\entities\\deleteclasscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|solutionrelative:sms.core\\features\\classcore\\command\\entities\\deleteclasscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0886705-0521-4854-AACE-730844BEDC30}|SMS.Service\\SMS.Service.csproj|e:\\,net projects\\sms\\sms.service\\unitofworkservice\\iunitofworkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0886705-0521-4854-AACE-730844BEDC30}|SMS.Service\\SMS.Service.csproj|solutionrelative:sms.service\\unitofworkservice\\iunitofworkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|e:\\,net projects\\sms\\sms.core\\features\\classcore\\command\\entities\\updateclasscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|solutionrelative:sms.core\\features\\classcore\\command\\entities\\updateclasscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3866BD25-3753-4D86-ABC7-988390014B17}|SMS.Data\\SMS.Data.csproj|e:\\,net projects\\sms\\sms.data\\entities\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3866BD25-3753-4D86-ABC7-988390014B17}|SMS.Data\\SMS.Data.csproj|solutionrelative:sms.data\\entities\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DAC199-2B12-44B3-9D77-21F94D1919EB}|SMS\\SMS.csproj|e:\\,net projects\\sms\\sms\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08DAC199-2B12-44B3-9D77-21F94D1919EB}|SMS\\SMS.csproj|solutionrelative:sms\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DAC199-2B12-44B3-9D77-21F94D1919EB}|SMS\\SMS.csproj|e:\\,net projects\\sms\\sms\\controllers\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08DAC199-2B12-44B3-9D77-21F94D1919EB}|SMS\\SMS.csproj|solutionrelative:sms\\controllers\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DAC199-2B12-44B3-9D77-21F94D1919EB}|SMS\\SMS.csproj|e:\\,net projects\\sms\\sms\\controllers\\levelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08DAC199-2B12-44B3-9D77-21F94D1919EB}|SMS\\SMS.csproj|solutionrelative:sms\\controllers\\levelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DAC199-2B12-44B3-9D77-21F94D1919EB}|SMS\\SMS.csproj|e:\\,net projects\\sms\\sms\\controllers\\studentregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08DAC199-2B12-44B3-9D77-21F94D1919EB}|SMS\\SMS.csproj|solutionrelative:sms\\controllers\\studentregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0886705-0521-4854-AACE-730844BEDC30}|SMS.Service\\SMS.Service.csproj|e:\\,net projects\\sms\\sms.service\\unitofworkservice\\unitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0886705-0521-4854-AACE-730844BEDC30}|SMS.Service\\SMS.Service.csproj|solutionrelative:sms.service\\unitofworkservice\\unitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0886705-0521-4854-AACE-730844BEDC30}|SMS.Service\\SMS.Service.csproj|e:\\,net projects\\sms\\sms.service\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0886705-0521-4854-AACE-730844BEDC30}|SMS.Service\\SMS.Service.csproj|solutionrelative:sms.service\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0886705-0521-4854-AACE-730844BEDC30}|SMS.Service\\SMS.Service.csproj|e:\\,net projects\\sms\\sms.service\\services\\subjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0886705-0521-4854-AACE-730844BEDC30}|SMS.Service\\SMS.Service.csproj|solutionrelative:sms.service\\services\\subjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|e:\\,net projects\\sms\\sms.core\\features\\studentcore\\command\\entities\\addstudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|solutionrelative:sms.core\\features\\studentcore\\command\\entities\\addstudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3866BD25-3753-4D86-ABC7-988390014B17}|SMS.Data\\SMS.Data.csproj|e:\\,net projects\\sms\\sms.data\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3866BD25-3753-4D86-ABC7-988390014B17}|SMS.Data\\SMS.Data.csproj|solutionrelative:sms.data\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3866BD25-3753-4D86-ABC7-988390014B17}|SMS.Data\\SMS.Data.csproj|e:\\,net projects\\sms\\sms.data\\entities\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3866BD25-3753-4D86-ABC7-988390014B17}|SMS.Data\\SMS.Data.csproj|solutionrelative:sms.data\\entities\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DAC199-2B12-44B3-9D77-21F94D1919EB}|SMS\\SMS.csproj|e:\\,net projects\\sms\\sms\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08DAC199-2B12-44B3-9D77-21F94D1919EB}|SMS\\SMS.csproj|solutionrelative:sms\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DAC199-2B12-44B3-9D77-21F94D1919EB}|SMS\\SMS.csproj|e:\\,net projects\\sms\\sms\\controllers\\examtypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08DAC199-2B12-44B3-9D77-21F94D1919EB}|SMS\\SMS.csproj|solutionrelative:sms\\controllers\\examtypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3866BD25-3753-4D86-ABC7-988390014B17}|SMS.Data\\SMS.Data.csproj|e:\\,net projects\\sms\\sms.data\\entities\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3866BD25-3753-4D86-ABC7-988390014B17}|SMS.Data\\SMS.Data.csproj|solutionrelative:sms.data\\entities\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3866BD25-3753-4D86-ABC7-988390014B17}|SMS.Data\\SMS.Data.csproj|e:\\,net projects\\sms\\sms.data\\entities\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3866BD25-3753-4D86-ABC7-988390014B17}|SMS.Data\\SMS.Data.csproj|solutionrelative:sms.data\\entities\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3866BD25-3753-4D86-ABC7-988390014B17}|SMS.Data\\SMS.Data.csproj|e:\\,net projects\\sms\\sms.data\\entities\\levelsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3866BD25-3753-4D86-ABC7-988390014B17}|SMS.Data\\SMS.Data.csproj|solutionrelative:sms.data\\entities\\levelsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3866BD25-3753-4D86-ABC7-988390014B17}|SMS.Data\\SMS.Data.csproj|e:\\,net projects\\sms\\sms.data\\entities\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3866BD25-3753-4D86-ABC7-988390014B17}|SMS.Data\\SMS.Data.csproj|solutionrelative:sms.data\\entities\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3866BD25-3753-4D86-ABC7-988390014B17}|SMS.Data\\SMS.Data.csproj|e:\\,net projects\\sms\\sms.data\\entities\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3866BD25-3753-4D86-ABC7-988390014B17}|SMS.Data\\SMS.Data.csproj|solutionrelative:sms.data\\entities\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3866BD25-3753-4D86-ABC7-988390014B17}|SMS.Data\\SMS.Data.csproj|e:\\,net projects\\sms\\sms.data\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3866BD25-3753-4D86-ABC7-988390014B17}|SMS.Data\\SMS.Data.csproj|solutionrelative:sms.data\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DAC199-2B12-44B3-9D77-21F94D1919EB}|SMS\\SMS.csproj|e:\\,net projects\\sms\\sms\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08DAC199-2B12-44B3-9D77-21F94D1919EB}|SMS\\SMS.csproj|solutionrelative:sms\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|e:\\,net projects\\sms\\sms.core\\features\\teachercore\\handlers\\teachercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|solutionrelative:sms.core\\features\\teachercore\\handlers\\teachercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF8BC89-2B40-44AD-AFB2-7071ECA14E18}|SMS.Infrastructure\\SMS.Infrastructure.csproj|e:\\,net projects\\sms\\sms.infrastructure\\migrations\\20241201092059_se.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF8BC89-2B40-44AD-AFB2-7071ECA14E18}|SMS.Infrastructure\\SMS.Infrastructure.csproj|solutionrelative:sms.infrastructure\\migrations\\20241201092059_se.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|e:\\,net projects\\sms\\sms.core\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|solutionrelative:sms.core\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0886705-0521-4854-AACE-730844BEDC30}|SMS.Service\\SMS.Service.csproj|e:\\,net projects\\sms\\sms.service\\services\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0886705-0521-4854-AACE-730844BEDC30}|SMS.Service\\SMS.Service.csproj|solutionrelative:sms.service\\services\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0886705-0521-4854-AACE-730844BEDC30}|SMS.Service\\SMS.Service.csproj|e:\\,net projects\\sms\\sms.service\\interfaces\\iteacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0886705-0521-4854-AACE-730844BEDC30}|SMS.Service\\SMS.Service.csproj|solutionrelative:sms.service\\interfaces\\iteacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|e:\\,net projects\\sms\\sms.core\\features\\teachercore\\entities\\addteachercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|solutionrelative:sms.core\\features\\teachercore\\entities\\addteachercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF8BC89-2B40-44AD-AFB2-7071ECA14E18}|SMS.Infrastructure\\SMS.Infrastructure.csproj|e:\\,net projects\\sms\\sms.infrastructure\\migrations\\20241201052105_s.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF8BC89-2B40-44AD-AFB2-7071ECA14E18}|SMS.Infrastructure\\SMS.Infrastructure.csproj|solutionrelative:sms.infrastructure\\migrations\\20241201052105_s.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|e:\\,net projects\\sms\\sms.core\\features\\parentcore\\handlers\\parentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|solutionrelative:sms.core\\features\\parentcore\\handlers\\parentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DAC199-2B12-44B3-9D77-21F94D1919EB}|SMS\\SMS.csproj|e:\\,net projects\\sms\\sms\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08DAC199-2B12-44B3-9D77-21F94D1919EB}|SMS\\SMS.csproj|solutionrelative:sms\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DAC199-2B12-44B3-9D77-21F94D1919EB}|SMS\\SMS.csproj|e:\\,net projects\\sms\\sms\\controllers\\classcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08DAC199-2B12-44B3-9D77-21F94D1919EB}|SMS\\SMS.csproj|solutionrelative:sms\\controllers\\classcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0886705-0521-4854-AACE-730844BEDC30}|SMS.Service\\SMS.Service.csproj|e:\\,net projects\\sms\\sms.service\\interfaces\\isubjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0886705-0521-4854-AACE-730844BEDC30}|SMS.Service\\SMS.Service.csproj|solutionrelative:sms.service\\interfaces\\isubjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|e:\\,net projects\\sms\\sms.core\\features\\subjectcore\\entities\\addsubjectcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|solutionrelative:sms.core\\features\\subjectcore\\entities\\addsubjectcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|e:\\,net projects\\sms\\sms.core\\features\\examtypecore\\handlers\\examtypecommandhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|solutionrelative:sms.core\\features\\examtypecore\\handlers\\examtypecommandhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0886705-0521-4854-AACE-730844BEDC30}|SMS.Service\\SMS.Service.csproj|e:\\,net projects\\sms\\sms.service\\services\\examtypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0886705-0521-4854-AACE-730844BEDC30}|SMS.Service\\SMS.Service.csproj|solutionrelative:sms.service\\services\\examtypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|e:\\,net projects\\sms\\sms.core\\features\\examtypecore\\entities\\addexamtypecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|solutionrelative:sms.core\\features\\examtypecore\\entities\\addexamtypecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0886705-0521-4854-AACE-730844BEDC30}|SMS.Service\\SMS.Service.csproj|e:\\,net projects\\sms\\sms.service\\services\\parentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0886705-0521-4854-AACE-730844BEDC30}|SMS.Service\\SMS.Service.csproj|solutionrelative:sms.service\\services\\parentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0886705-0521-4854-AACE-730844BEDC30}|SMS.Service\\SMS.Service.csproj|e:\\,net projects\\sms\\sms.service\\interfaces\\iparentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0886705-0521-4854-AACE-730844BEDC30}|SMS.Service\\SMS.Service.csproj|solutionrelative:sms.service\\interfaces\\iparentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|e:\\,net projects\\sms\\sms.core\\features\\parentcore\\entities\\addparentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|solutionrelative:sms.core\\features\\parentcore\\entities\\addparentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|e:\\,net projects\\sms\\sms.core\\features\\levelcore\\entities\\addlevelcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|solutionrelative:sms.core\\features\\levelcore\\entities\\addlevelcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|e:\\,net projects\\sms\\sms.core\\features\\levelcore\\handlers\\levelcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|solutionrelative:sms.core\\features\\levelcore\\handlers\\levelcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0886705-0521-4854-AACE-730844BEDC30}|SMS.Service\\SMS.Service.csproj|e:\\,net projects\\sms\\sms.service\\services\\levelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0886705-0521-4854-AACE-730844BEDC30}|SMS.Service\\SMS.Service.csproj|solutionrelative:sms.service\\services\\levelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0886705-0521-4854-AACE-730844BEDC30}|SMS.Service\\SMS.Service.csproj|e:\\,net projects\\sms\\sms.service\\interfaces\\ilevelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0886705-0521-4854-AACE-730844BEDC30}|SMS.Service\\SMS.Service.csproj|solutionrelative:sms.service\\interfaces\\ilevelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|e:\\,net projects\\sms\\sms.core\\features\\classcore\\command\\entities\\addclasscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|solutionrelative:sms.core\\features\\classcore\\command\\entities\\addclasscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0886705-0521-4854-AACE-730844BEDC30}|SMS.Service\\SMS.Service.csproj|e:\\,net projects\\sms\\sms.service\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0886705-0521-4854-AACE-730844BEDC30}|SMS.Service\\SMS.Service.csproj|solutionrelative:sms.service\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0886705-0521-4854-AACE-730844BEDC30}|SMS.Service\\SMS.Service.csproj|e:\\,net projects\\sms\\sms.service\\interfaces\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0886705-0521-4854-AACE-730844BEDC30}|SMS.Service\\SMS.Service.csproj|solutionrelative:sms.service\\interfaces\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|e:\\,net projects\\sms\\sms.core\\features\\departmentcore\\command\\handlers\\departmentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|solutionrelative:sms.core\\features\\departmentcore\\command\\handlers\\departmentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|e:\\,net projects\\sms\\sms.core\\features\\departmentcore\\command\\entities\\adddepartmentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|solutionrelative:sms.core\\features\\departmentcore\\command\\entities\\adddepartmentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|e:\\,net projects\\sms\\sms.core\\features\\usercore\\command\\handlers\\usercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|solutionrelative:sms.core\\features\\usercore\\command\\handlers\\usercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|e:\\,net projects\\sms\\sms.core\\bases\\requesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|solutionrelative:sms.core\\bases\\requesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|e:\\,net projects\\sms\\sms.core\\features\\usercore\\command\\entities\\logincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|solutionrelative:sms.core\\features\\usercore\\command\\entities\\logincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|e:\\,net projects\\sms\\sms.core\\bases\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|solutionrelative:sms.core\\bases\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|e:\\,net projects\\sms\\sms.core\\features\\usercore\\command\\entities\\addusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|solutionrelative:sms.core\\features\\usercore\\command\\entities\\addusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|e:\\,net projects\\sms\\sms.core\\features\\rolecore\\command\\handlers\\rolecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|solutionrelative:sms.core\\features\\rolecore\\command\\handlers\\rolecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|e:\\,net projects\\sms\\sms.core\\validations\\rolevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|solutionrelative:sms.core\\validations\\rolevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|e:\\,net projects\\sms\\sms.core\\unitofworkvalidation\\unitofworkvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|solutionrelative:sms.core\\unitofworkvalidation\\unitofworkvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DAC199-2B12-44B3-9D77-21F94D1919EB}|SMS\\SMS.csproj|e:\\,net projects\\sms\\sms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08DAC199-2B12-44B3-9D77-21F94D1919EB}|SMS\\SMS.csproj|solutionrelative:sms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|e:\\,net projects\\sms\\sms.core\\features\\rolecore\\command\\entities\\addrolecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|solutionrelative:sms.core\\features\\rolecore\\command\\entities\\addrolecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF8BC89-2B40-44AD-AFB2-7071ECA14E18}|SMS.Infrastructure\\SMS.Infrastructure.csproj|e:\\,net projects\\sms\\sms.infrastructure\\migrations\\20241114233359_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF8BC89-2B40-44AD-AFB2-7071ECA14E18}|SMS.Infrastructure\\SMS.Infrastructure.csproj|solutionrelative:sms.infrastructure\\migrations\\20241114233359_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|e:\\,net projects\\sms\\sms.core\\unitofworkvalidation\\iunitofworkvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|solutionrelative:sms.core\\unitofworkvalidation\\iunitofworkvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|e:\\,net projects\\sms\\sms.core\\validations\\departmentvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24BC136C-8F09-4FF6-9D0E-BEBE27E9FB4D}|SMS.Core\\SMS.Core.csproj|solutionrelative:sms.core\\validations\\departmentvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DAC199-2B12-44B3-9D77-21F94D1919EB}|SMS\\SMS.csproj|e:\\,net projects\\sms\\sms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{08DAC199-2B12-44B3-9D77-21F94D1919EB}|SMS\\SMS.csproj|solutionrelative:sms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentRegistrationExam.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Data\\Entities\\StudentRegistrationExam.cs",
+              "RelativeDocumentMoniker": "SMS.Data\\Entities\\StudentRegistrationExam.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Data\\Entities\\StudentRegistrationExam.cs",
+              "RelativeToolTip": "SMS.Data\\Entities\\StudentRegistrationExam.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T08:43:22.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Service\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "SMS.Service\\Services\\StudentService.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Service\\Services\\StudentService.cs",
+              "RelativeToolTip": "SMS.Service\\Services\\StudentService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T11:29:07.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentExamService.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Service\\Services\\StudentExamService.cs",
+              "RelativeDocumentMoniker": "SMS.Service\\Services\\StudentExamService.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Service\\Services\\StudentExamService.cs",
+              "RelativeToolTip": "SMS.Service\\Services\\StudentExamService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T11:28:22.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExamType.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Data\\Entities\\ExamType.cs",
+              "RelativeDocumentMoniker": "SMS.Data\\Entities\\ExamType.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Data\\Entities\\ExamType.cs",
+              "RelativeToolTip": "SMS.Data\\Entities\\ExamType.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T23:20:19.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Data\\Entities\\Exam.cs",
+              "RelativeDocumentMoniker": "SMS.Data\\Entities\\Exam.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Data\\Entities\\Exam.cs",
+              "RelativeToolTip": "SMS.Data\\Entities\\Exam.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T23:20:10.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExamTypeRepo.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Infrastructure\\Repositories\\Repos\\ExamTypeRepo.cs",
+              "RelativeDocumentMoniker": "SMS.Infrastructure\\Repositories\\Repos\\ExamTypeRepo.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Infrastructure\\Repositories\\Repos\\ExamTypeRepo.cs",
+              "RelativeToolTip": "SMS.Infrastructure\\Repositories\\Repos\\ExamTypeRepo.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T08:50:32.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20241213161212_t.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Infrastructure\\Migrations\\20241213161212_t.cs",
+              "RelativeDocumentMoniker": "SMS.Infrastructure\\Migrations\\20241213161212_t.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Infrastructure\\Migrations\\20241213161212_t.cs",
+              "RelativeToolTip": "SMS.Infrastructure\\Migrations\\20241213161212_t.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAADYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T16:12:13.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentExamController.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS\\Controllers\\StudentExamController.cs",
+              "RelativeDocumentMoniker": "SMS\\Controllers\\StudentExamController.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS\\Controllers\\StudentExamController.cs",
+              "RelativeToolTip": "SMS\\Controllers\\StudentExamController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAwwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T11:37:01.229Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ExamController.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS\\Controllers\\ExamController.cs",
+              "RelativeDocumentMoniker": "SMS\\Controllers\\ExamController.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS\\Controllers\\ExamController.cs",
+              "RelativeToolTip": "SMS\\Controllers\\ExamController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T06:06:50.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20241213141507_t.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Infrastructure\\Migrations\\20241213141507_t.cs",
+              "RelativeDocumentMoniker": "SMS.Infrastructure\\Migrations\\20241213141507_t.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Infrastructure\\Migrations\\20241213141507_t.cs",
+              "RelativeToolTip": "SMS.Infrastructure\\Migrations\\20241213141507_t.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAIwK8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:15:07.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IClassService.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Service\\Interfaces\\IClassService.cs",
+              "RelativeDocumentMoniker": "SMS.Service\\Interfaces\\IClassService.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Service\\Interfaces\\IClassService.cs",
+              "RelativeToolTip": "SMS.Service\\Interfaces\\IClassService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T17:10:06.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentCommandHandler.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Core\\Features\\StudentCore\\Command\\Handlers\\StudentCommandHandler.cs",
+              "RelativeDocumentMoniker": "SMS.Core\\Features\\StudentCore\\Command\\Handlers\\StudentCommandHandler.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Core\\Features\\StudentCore\\Command\\Handlers\\StudentCommandHandler.cs",
+              "RelativeToolTip": "SMS.Core\\Features\\StudentCore\\Command\\Handlers\\StudentCommandHandler.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwCUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T11:25:32.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ExamCommandHandler.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Core\\Features\\ExamCore\\Command\\Handlers\\ExamCommandHandler.cs",
+              "RelativeDocumentMoniker": "SMS.Core\\Features\\ExamCore\\Command\\Handlers\\ExamCommandHandler.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Core\\Features\\ExamCore\\Command\\Handlers\\ExamCommandHandler.cs",
+              "RelativeToolTip": "SMS.Core\\Features\\ExamCore\\Command\\Handlers\\ExamCommandHandler.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T06:13:51.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ClassCommandHandler.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Core\\Features\\ClassCore\\Command\\Handlers\\ClassCommandHandler.cs",
+              "RelativeDocumentMoniker": "SMS.Core\\Features\\ClassCore\\Command\\Handlers\\ClassCommandHandler.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Core\\Features\\ClassCore\\Command\\Handlers\\ClassCommandHandler.cs",
+              "RelativeToolTip": "SMS.Core\\Features\\ClassCore\\Command\\Handlers\\ClassCommandHandler.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAADYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T17:04:23.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClassService.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Service\\Services\\ClassService.cs",
+              "RelativeDocumentMoniker": "SMS.Service\\Services\\ClassService.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Service\\Services\\ClassService.cs",
+              "RelativeToolTip": "SMS.Service\\Services\\ClassService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T17:09:56.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IExamRepo.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Infrastructure\\Repositories\\Interfaces\\IExamRepo.cs",
+              "RelativeDocumentMoniker": "SMS.Infrastructure\\Repositories\\Interfaces\\IExamRepo.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Infrastructure\\Repositories\\Interfaces\\IExamRepo.cs",
+              "RelativeToolTip": "SMS.Infrastructure\\Repositories\\Interfaces\\IExamRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:25:16.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IExamService.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Service\\Interfaces\\IExamService.cs",
+              "RelativeDocumentMoniker": "SMS.Service\\Interfaces\\IExamService.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Service\\Interfaces\\IExamService.cs",
+              "RelativeToolTip": "SMS.Service\\Interfaces\\IExamService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T06:19:44.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IExamTypeRepo.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Infrastructure\\Repositories\\Interfaces\\IExamTypeRepo.cs",
+              "RelativeDocumentMoniker": "SMS.Infrastructure\\Repositories\\Interfaces\\IExamTypeRepo.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Infrastructure\\Repositories\\Interfaces\\IExamTypeRepo.cs",
+              "RelativeToolTip": "SMS.Infrastructure\\Repositories\\Interfaces\\IExamTypeRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T08:48:19.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ExamRepo.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Infrastructure\\Repositories\\Repos\\ExamRepo.cs",
+              "RelativeDocumentMoniker": "SMS.Infrastructure\\Repositories\\Repos\\ExamRepo.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Infrastructure\\Repositories\\Repos\\ExamRepo.cs",
+              "RelativeToolTip": "SMS.Infrastructure\\Repositories\\Repos\\ExamRepo.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:49:31.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ExamService.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Service\\Services\\ExamService.cs",
+              "RelativeDocumentMoniker": "SMS.Service\\Services\\ExamService.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Service\\Services\\ExamService.cs",
+              "RelativeToolTip": "SMS.Service\\Services\\ExamService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T06:20:09.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Infrastructure\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "SMS.Infrastructure\\UnitOfWork\\IUnitOfWork.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Infrastructure\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeToolTip": "SMS.Infrastructure\\UnitOfWork\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T01:10:45.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "SMS.Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "SMS.Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T01:22:02.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AddExamCommand.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Core\\Features\\ExamCore\\Command\\Entities\\AddExamCommand.cs",
+              "RelativeDocumentMoniker": "SMS.Core\\Features\\ExamCore\\Command\\Entities\\AddExamCommand.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Core\\Features\\ExamCore\\Command\\Entities\\AddExamCommand.cs",
+              "RelativeToolTip": "SMS.Core\\Features\\ExamCore\\Command\\Entities\\AddExamCommand.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T06:11:12.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DepartmentRepo.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Infrastructure\\Repositories\\Repos\\DepartmentRepo.cs",
+              "RelativeDocumentMoniker": "SMS.Infrastructure\\Repositories\\Repos\\DepartmentRepo.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Infrastructure\\Repositories\\Repos\\DepartmentRepo.cs",
+              "RelativeToolTip": "SMS.Infrastructure\\Repositories\\Repos\\DepartmentRepo.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T14:14:30.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GenericRepo.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Infrastructure\\Repositories\\Repos\\GenericRepo.cs",
+              "RelativeDocumentMoniker": "SMS.Infrastructure\\Repositories\\Repos\\GenericRepo.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Infrastructure\\Repositories\\Repos\\GenericRepo.cs",
+              "RelativeToolTip": "SMS.Infrastructure\\Repositories\\Repos\\GenericRepo.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T01:14:12.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IGenericRepo.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Infrastructure\\Repositories\\Interfaces\\IGenericRepo.cs",
+              "RelativeDocumentMoniker": "SMS.Infrastructure\\Repositories\\Interfaces\\IGenericRepo.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Infrastructure\\Repositories\\Interfaces\\IGenericRepo.cs",
+              "RelativeToolTip": "SMS.Infrastructure\\Repositories\\Interfaces\\IGenericRepo.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwBoAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T01:15:15.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IDepartmentRepo.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Infrastructure\\Repositories\\Interfaces\\IDepartmentRepo.cs",
+              "RelativeDocumentMoniker": "SMS.Infrastructure\\Repositories\\Interfaces\\IDepartmentRepo.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Infrastructure\\Repositories\\Interfaces\\IDepartmentRepo.cs",
+              "RelativeToolTip": "SMS.Infrastructure\\Repositories\\Interfaces\\IDepartmentRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T14:16:21.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IStudentExam.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Service\\Interfaces\\IStudentExam.cs",
+              "RelativeDocumentMoniker": "SMS.Service\\Interfaces\\IStudentExam.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Service\\Interfaces\\IStudentExam.cs",
+              "RelativeToolTip": "SMS.Service\\Interfaces\\IStudentExam.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T11:27:05.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "StudentExamHandlerQuery.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Core\\Features\\StudentRegistrationExamCore\\Query\\Handlers\\StudentExamHandlerQuery.cs",
+              "RelativeDocumentMoniker": "SMS.Core\\Features\\StudentRegistrationExamCore\\Query\\Handlers\\StudentExamHandlerQuery.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Core\\Features\\StudentRegistrationExamCore\\Query\\Handlers\\StudentExamHandlerQuery.cs",
+              "RelativeToolTip": "SMS.Core\\Features\\StudentRegistrationExamCore\\Query\\Handlers\\StudentExamHandlerQuery.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T14:24:44.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Department.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Data\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "SMS.Data\\Entities\\Department.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Data\\Entities\\Department.cs",
+              "RelativeToolTip": "SMS.Data\\Entities\\Department.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T23:19:51.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "StudentRegistrationRepo.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Infrastructure\\Repositories\\Repos\\StudentRegistrationRepo.cs",
+              "RelativeDocumentMoniker": "SMS.Infrastructure\\Repositories\\Repos\\StudentRegistrationRepo.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Infrastructure\\Repositories\\Repos\\StudentRegistrationRepo.cs",
+              "RelativeToolTip": "SMS.Infrastructure\\Repositories\\Repos\\StudentRegistrationRepo.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA5wBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T08:32:16.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IStudentRegistrationExamRepo.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Infrastructure\\Repositories\\Interfaces\\IStudentRegistrationExamRepo.cs",
+              "RelativeDocumentMoniker": "SMS.Infrastructure\\Repositories\\Interfaces\\IStudentRegistrationExamRepo.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Infrastructure\\Repositories\\Interfaces\\IStudentRegistrationExamRepo.cs",
+              "RelativeToolTip": "SMS.Infrastructure\\Repositories\\Interfaces\\IStudentRegistrationExamRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T08:32:53.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "GetStudentsExamQuery.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Core\\Features\\StudentRegistrationExamCore\\Query\\Entities\\GetStudentsExamQuery.cs",
+              "RelativeDocumentMoniker": "SMS.Core\\Features\\StudentRegistrationExamCore\\Query\\Entities\\GetStudentsExamQuery.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Core\\Features\\StudentRegistrationExamCore\\Query\\Entities\\GetStudentsExamQuery.cs",
+              "RelativeToolTip": "SMS.Core\\Features\\StudentRegistrationExamCore\\Query\\Entities\\GetStudentsExamQuery.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T14:06:09.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "SubjectCommandHandler.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Core\\Features\\SubjectCore\\Handlers\\SubjectCommandHandler.cs",
+              "RelativeDocumentMoniker": "SMS.Core\\Features\\SubjectCore\\Handlers\\SubjectCommandHandler.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Core\\Features\\SubjectCore\\Handlers\\SubjectCommandHandler.cs",
+              "RelativeToolTip": "SMS.Core\\Features\\SubjectCore\\Handlers\\SubjectCommandHandler.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAowBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T04:47:43.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AddStudentExamCommand.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Core\\Features\\StudentRegistrationExamCore\\Command\\Entities\\AddStudentExamCommand.cs",
+              "RelativeDocumentMoniker": "SMS.Core\\Features\\StudentRegistrationExamCore\\Command\\Entities\\AddStudentExamCommand.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Core\\Features\\StudentRegistrationExamCore\\Command\\Entities\\AddStudentExamCommand.cs",
+              "RelativeToolTip": "SMS.Core\\Features\\StudentRegistrationExamCore\\Command\\Entities\\AddStudentExamCommand.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T09:49:44.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IExamType.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Service\\Interfaces\\IExamType.cs",
+              "RelativeDocumentMoniker": "SMS.Service\\Interfaces\\IExamType.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Service\\Interfaces\\IExamType.cs",
+              "RelativeToolTip": "SMS.Service\\Interfaces\\IExamType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T04:30:37.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "StudentExamHandler.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Core\\Features\\StudentRegistrationExamCore\\Command\\Handlers\\StudentExamHandler.cs",
+              "RelativeDocumentMoniker": "SMS.Core\\Features\\StudentRegistrationExamCore\\Command\\Handlers\\StudentExamHandler.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Core\\Features\\StudentRegistrationExamCore\\Command\\Handlers\\StudentExamHandler.cs",
+              "RelativeToolTip": "SMS.Core\\Features\\StudentRegistrationExamCore\\Command\\Handlers\\StudentExamHandler.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T09:53:29.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DeleteClassCommand.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Core\\Features\\ClassCore\\Command\\Entities\\DeleteClassCommand.cs",
+              "RelativeDocumentMoniker": "SMS.Core\\Features\\ClassCore\\Command\\Entities\\DeleteClassCommand.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Core\\Features\\ClassCore\\Command\\Entities\\DeleteClassCommand.cs",
+              "RelativeToolTip": "SMS.Core\\Features\\ClassCore\\Command\\Entities\\DeleteClassCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T12:40:24.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IUnitOfWorkService.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Service\\UnitOfWorkService\\IUnitOfWorkService.cs",
+              "RelativeDocumentMoniker": "SMS.Service\\UnitOfWorkService\\IUnitOfWorkService.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Service\\UnitOfWorkService\\IUnitOfWorkService.cs",
+              "RelativeToolTip": "SMS.Service\\UnitOfWorkService\\IUnitOfWorkService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwBIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T02:32:13.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UpdateClassCommand.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Core\\Features\\ClassCore\\Command\\Entities\\UpdateClassCommand.cs",
+              "RelativeDocumentMoniker": "SMS.Core\\Features\\ClassCore\\Command\\Entities\\UpdateClassCommand.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Core\\Features\\ClassCore\\Command\\Entities\\UpdateClassCommand.cs",
+              "RelativeToolTip": "SMS.Core\\Features\\ClassCore\\Command\\Entities\\UpdateClassCommand.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T12:15:25.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Class.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Data\\Entities\\Class.cs",
+              "RelativeDocumentMoniker": "SMS.Data\\Entities\\Class.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Data\\Entities\\Class.cs",
+              "RelativeToolTip": "SMS.Data\\Entities\\Class.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T23:19:23.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "SubjectController.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS\\Controllers\\SubjectController.cs",
+              "RelativeDocumentMoniker": "SMS\\Controllers\\SubjectController.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS\\Controllers\\SubjectController.cs",
+              "RelativeToolTip": "SMS\\Controllers\\SubjectController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T04:59:07.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "LevelController.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS\\Controllers\\LevelController.cs",
+              "RelativeDocumentMoniker": "SMS\\Controllers\\LevelController.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS\\Controllers\\LevelController.cs",
+              "RelativeToolTip": "SMS\\Controllers\\LevelController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:49:19.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "StudentRegistrationController.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS\\Controllers\\StudentRegistrationController.cs",
+              "RelativeDocumentMoniker": "SMS\\Controllers\\StudentRegistrationController.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS\\Controllers\\StudentRegistrationController.cs",
+              "RelativeToolTip": "SMS\\Controllers\\StudentRegistrationController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T09:38:27.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS\\Controllers\\TeacherController.cs",
+              "RelativeDocumentMoniker": "SMS\\Controllers\\TeacherController.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS\\Controllers\\TeacherController.cs",
+              "RelativeToolTip": "SMS\\Controllers\\TeacherController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T07:56:13.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "UnitService.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Service\\UnitOfWorkService\\UnitService.cs",
+              "RelativeDocumentMoniker": "SMS.Service\\UnitOfWorkService\\UnitService.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Service\\UnitOfWorkService\\UnitService.cs",
+              "RelativeToolTip": "SMS.Service\\UnitOfWorkService\\UnitService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T02:32:44.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Service\\Interfaces\\IStudentService.cs",
+              "RelativeDocumentMoniker": "SMS.Service\\Interfaces\\IStudentService.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Service\\Interfaces\\IStudentService.cs",
+              "RelativeToolTip": "SMS.Service\\Interfaces\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T11:29:39.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "SubjectService.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Service\\Services\\SubjectService.cs",
+              "RelativeDocumentMoniker": "SMS.Service\\Services\\SubjectService.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Service\\Services\\SubjectService.cs",
+              "RelativeToolTip": "SMS.Service\\Services\\SubjectService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T04:51:48.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "AddStudentCommand.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Core\\Features\\StudentCore\\Command\\Entities\\AddStudentCommand.cs",
+              "RelativeDocumentMoniker": "SMS.Core\\Features\\StudentCore\\Command\\Entities\\AddStudentCommand.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Core\\Features\\StudentCore\\Command\\Entities\\AddStudentCommand.cs",
+              "RelativeToolTip": "SMS.Core\\Features\\StudentCore\\Command\\Entities\\AddStudentCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T11:22:53.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Data\\Entities\\Teacher.cs",
+              "RelativeDocumentMoniker": "SMS.Data\\Entities\\Teacher.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Data\\Entities\\Teacher.cs",
+              "RelativeToolTip": "SMS.Data\\Entities\\Teacher.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T23:22:28.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Data\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "SMS.Data\\Entities\\Student.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Data\\Entities\\Student.cs",
+              "RelativeToolTip": "SMS.Data\\Entities\\Student.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T23:22:10.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "SMS\\Controllers\\RoleController.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "SMS\\Controllers\\RoleController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T03:25:15.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ExamTypeController.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS\\Controllers\\ExamTypeController.cs",
+              "RelativeDocumentMoniker": "SMS\\Controllers\\ExamTypeController.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS\\Controllers\\ExamTypeController.cs",
+              "RelativeToolTip": "SMS\\Controllers\\ExamTypeController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA9wCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T04:40:41.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Data\\Entities\\Subject.cs",
+              "RelativeDocumentMoniker": "SMS.Data\\Entities\\Subject.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Data\\Entities\\Subject.cs",
+              "RelativeToolTip": "SMS.Data\\Entities\\Subject.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T23:22:19.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Parent.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Data\\Entities\\Parent.cs",
+              "RelativeDocumentMoniker": "SMS.Data\\Entities\\Parent.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Data\\Entities\\Parent.cs",
+              "RelativeToolTip": "SMS.Data\\Entities\\Parent.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T23:21:59.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "LevelSubject.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Data\\Entities\\LevelSubject.cs",
+              "RelativeDocumentMoniker": "SMS.Data\\Entities\\LevelSubject.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Data\\Entities\\LevelSubject.cs",
+              "RelativeToolTip": "SMS.Data\\Entities\\LevelSubject.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T23:20:46.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Level.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Data\\Entities\\Level.cs",
+              "RelativeDocumentMoniker": "SMS.Data\\Entities\\Level.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Data\\Entities\\Level.cs",
+              "RelativeToolTip": "SMS.Data\\Entities\\Level.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T23:20:33.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Attendance.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Data\\Entities\\Attendance.cs",
+              "RelativeDocumentMoniker": "SMS.Data\\Entities\\Attendance.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Data\\Entities\\Attendance.cs",
+              "RelativeToolTip": "SMS.Data\\Entities\\Attendance.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T23:18:08.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Data\\Entities\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "SMS.Data\\Entities\\ApplicationUser.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Data\\Entities\\ApplicationUser.cs",
+              "RelativeToolTip": "SMS.Data\\Entities\\ApplicationUser.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T23:16:28.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "SMS\\Controllers\\DepartmentController.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "SMS\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T00:51:58.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "20241201092059_se.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Infrastructure\\Migrations\\20241201092059_se.cs",
+              "RelativeDocumentMoniker": "SMS.Infrastructure\\Migrations\\20241201092059_se.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Infrastructure\\Migrations\\20241201092059_se.cs",
+              "RelativeToolTip": "SMS.Infrastructure\\Migrations\\20241201092059_se.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T09:21:01.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "TeacherCommandHandler.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Core\\Features\\TeacherCore\\Handlers\\TeacherCommandHandler.cs",
+              "RelativeDocumentMoniker": "SMS.Core\\Features\\TeacherCore\\Handlers\\TeacherCommandHandler.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Core\\Features\\TeacherCore\\Handlers\\TeacherCommandHandler.cs",
+              "RelativeToolTip": "SMS.Core\\Features\\TeacherCore\\Handlers\\TeacherCommandHandler.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T08:07:45.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Core\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "SMS.Core\\Mapping\\MappingProfile.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Core\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "SMS.Core\\Mapping\\MappingProfile.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBoAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T01:45:42.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "TeacherService.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Service\\Services\\TeacherService.cs",
+              "RelativeDocumentMoniker": "SMS.Service\\Services\\TeacherService.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Service\\Services\\TeacherService.cs",
+              "RelativeToolTip": "SMS.Service\\Services\\TeacherService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T08:19:08.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ITeacherService.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Service\\Interfaces\\ITeacherService.cs",
+              "RelativeDocumentMoniker": "SMS.Service\\Interfaces\\ITeacherService.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Service\\Interfaces\\ITeacherService.cs",
+              "RelativeToolTip": "SMS.Service\\Interfaces\\ITeacherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T08:15:08.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "AddTeacherCommand.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Core\\Features\\TeacherCore\\Entities\\AddTeacherCommand.cs",
+              "RelativeDocumentMoniker": "SMS.Core\\Features\\TeacherCore\\Entities\\AddTeacherCommand.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Core\\Features\\TeacherCore\\Entities\\AddTeacherCommand.cs",
+              "RelativeToolTip": "SMS.Core\\Features\\TeacherCore\\Entities\\AddTeacherCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T08:08:58.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "20241201052105_s.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Infrastructure\\Migrations\\20241201052105_s.cs",
+              "RelativeDocumentMoniker": "SMS.Infrastructure\\Migrations\\20241201052105_s.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Infrastructure\\Migrations\\20241201052105_s.cs",
+              "RelativeToolTip": "SMS.Infrastructure\\Migrations\\20241201052105_s.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T05:21:05.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "ClassController.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS\\Controllers\\ClassController.cs",
+              "RelativeDocumentMoniker": "SMS\\Controllers\\ClassController.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS\\Controllers\\ClassController.cs",
+              "RelativeToolTip": "SMS\\Controllers\\ClassController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T16:59:01.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "SMS\\Controllers\\AccountController.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "SMS\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA5wCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T03:12:15.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "ParentCommandHandler.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Core\\Features\\ParentCore\\Handlers\\ParentCommandHandler.cs",
+              "RelativeDocumentMoniker": "SMS.Core\\Features\\ParentCore\\Handlers\\ParentCommandHandler.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Core\\Features\\ParentCore\\Handlers\\ParentCommandHandler.cs",
+              "RelativeToolTip": "SMS.Core\\Features\\ParentCore\\Handlers\\ParentCommandHandler.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowBgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T19:02:24.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "ISubjectService.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Service\\Interfaces\\ISubjectService.cs",
+              "RelativeDocumentMoniker": "SMS.Service\\Interfaces\\ISubjectService.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Service\\Interfaces\\ISubjectService.cs",
+              "RelativeToolTip": "SMS.Service\\Interfaces\\ISubjectService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T04:51:33.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "AddSubjectCommand.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Core\\Features\\SubjectCore\\Entities\\AddSubjectCommand.cs",
+              "RelativeDocumentMoniker": "SMS.Core\\Features\\SubjectCore\\Entities\\AddSubjectCommand.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Core\\Features\\SubjectCore\\Entities\\AddSubjectCommand.cs",
+              "RelativeToolTip": "SMS.Core\\Features\\SubjectCore\\Entities\\AddSubjectCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T04:45:51.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "ExamTypeService.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Service\\Services\\ExamTypeService.cs",
+              "RelativeDocumentMoniker": "SMS.Service\\Services\\ExamTypeService.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Service\\Services\\ExamTypeService.cs",
+              "RelativeToolTip": "SMS.Service\\Services\\ExamTypeService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T04:31:39.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "ExamTypeCommandHandlers.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Core\\Features\\ExamTypeCore\\Handlers\\ExamTypeCommandHandlers.cs",
+              "RelativeDocumentMoniker": "SMS.Core\\Features\\ExamTypeCore\\Handlers\\ExamTypeCommandHandlers.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Core\\Features\\ExamTypeCore\\Handlers\\ExamTypeCommandHandlers.cs",
+              "RelativeToolTip": "SMS.Core\\Features\\ExamTypeCore\\Handlers\\ExamTypeCommandHandlers.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T04:22:27.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "AddExamTypeCommand.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Core\\Features\\ExamTypeCore\\Entities\\AddExamTypeCommand.cs",
+              "RelativeDocumentMoniker": "SMS.Core\\Features\\ExamTypeCore\\Entities\\AddExamTypeCommand.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Core\\Features\\ExamTypeCore\\Entities\\AddExamTypeCommand.cs",
+              "RelativeToolTip": "SMS.Core\\Features\\ExamTypeCore\\Entities\\AddExamTypeCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T04:20:56.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "ParentService.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Service\\Services\\ParentService.cs",
+              "RelativeDocumentMoniker": "SMS.Service\\Services\\ParentService.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Service\\Services\\ParentService.cs",
+              "RelativeToolTip": "SMS.Service\\Services\\ParentService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T19:07:49.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "AddParentCommand.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Core\\Features\\ParentCore\\Entities\\AddParentCommand.cs",
+              "RelativeDocumentMoniker": "SMS.Core\\Features\\ParentCore\\Entities\\AddParentCommand.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Core\\Features\\ParentCore\\Entities\\AddParentCommand.cs",
+              "RelativeToolTip": "SMS.Core\\Features\\ParentCore\\Entities\\AddParentCommand.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:59:21.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "IParentService.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Service\\Interfaces\\IParentService.cs",
+              "RelativeDocumentMoniker": "SMS.Service\\Interfaces\\IParentService.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Service\\Interfaces\\IParentService.cs",
+              "RelativeToolTip": "SMS.Service\\Interfaces\\IParentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T19:06:52.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "AddLevelCommand.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Core\\Features\\LevelCore\\Entities\\AddLevelCommand.cs",
+              "RelativeDocumentMoniker": "SMS.Core\\Features\\LevelCore\\Entities\\AddLevelCommand.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Core\\Features\\LevelCore\\Entities\\AddLevelCommand.cs",
+              "RelativeToolTip": "SMS.Core\\Features\\LevelCore\\Entities\\AddLevelCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:36:26.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "LevelCommandHandler.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Core\\Features\\LevelCore\\Handlers\\LevelCommandHandler.cs",
+              "RelativeDocumentMoniker": "SMS.Core\\Features\\LevelCore\\Handlers\\LevelCommandHandler.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Core\\Features\\LevelCore\\Handlers\\LevelCommandHandler.cs",
+              "RelativeToolTip": "SMS.Core\\Features\\LevelCore\\Handlers\\LevelCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:37:55.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "LevelService.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Service\\Services\\LevelService.cs",
+              "RelativeDocumentMoniker": "SMS.Service\\Services\\LevelService.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Service\\Services\\LevelService.cs",
+              "RelativeToolTip": "SMS.Service\\Services\\LevelService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:43:04.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "ILevelService.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Service\\Interfaces\\ILevelService.cs",
+              "RelativeDocumentMoniker": "SMS.Service\\Interfaces\\ILevelService.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Service\\Interfaces\\ILevelService.cs",
+              "RelativeToolTip": "SMS.Service\\Interfaces\\ILevelService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:42:05.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "AddClassCommand.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Core\\Features\\ClassCore\\Command\\Entities\\AddClassCommand.cs",
+              "RelativeDocumentMoniker": "SMS.Core\\Features\\ClassCore\\Command\\Entities\\AddClassCommand.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Core\\Features\\ClassCore\\Command\\Entities\\AddClassCommand.cs",
+              "RelativeToolTip": "SMS.Core\\Features\\ClassCore\\Command\\Entities\\AddClassCommand.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T17:03:09.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Service\\Services\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "SMS.Service\\Services\\DepartmentService.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Service\\Services\\DepartmentService.cs",
+              "RelativeToolTip": "SMS.Service\\Services\\DepartmentService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T02:06:18.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "IDepartmentService.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Service\\Interfaces\\IDepartmentService.cs",
+              "RelativeDocumentMoniker": "SMS.Service\\Interfaces\\IDepartmentService.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Service\\Interfaces\\IDepartmentService.cs",
+              "RelativeToolTip": "SMS.Service\\Interfaces\\IDepartmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T02:05:47.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "DepartmentCommandHandler.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Core\\Features\\DepartmentCore\\Command\\Handlers\\DepartmentCommandHandler.cs",
+              "RelativeDocumentMoniker": "SMS.Core\\Features\\DepartmentCore\\Command\\Handlers\\DepartmentCommandHandler.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Core\\Features\\DepartmentCore\\Command\\Handlers\\DepartmentCommandHandler.cs",
+              "RelativeToolTip": "SMS.Core\\Features\\DepartmentCore\\Command\\Handlers\\DepartmentCommandHandler.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T00:59:38.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "AddDepartmentCommand.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Core\\Features\\DepartmentCore\\Command\\Entities\\AddDepartmentCommand.cs",
+              "RelativeDocumentMoniker": "SMS.Core\\Features\\DepartmentCore\\Command\\Entities\\AddDepartmentCommand.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Core\\Features\\DepartmentCore\\Command\\Entities\\AddDepartmentCommand.cs",
+              "RelativeToolTip": "SMS.Core\\Features\\DepartmentCore\\Command\\Entities\\AddDepartmentCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T00:58:46.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "UserCommandHandler.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Core\\Features\\UserCore\\Command\\Handlers\\UserCommandHandler.cs",
+              "RelativeDocumentMoniker": "SMS.Core\\Features\\UserCore\\Command\\Handlers\\UserCommandHandler.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Core\\Features\\UserCore\\Command\\Handlers\\UserCommandHandler.cs",
+              "RelativeToolTip": "SMS.Core\\Features\\UserCore\\Command\\Handlers\\UserCommandHandler.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T07:27:37.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "RESPONSE.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Core\\Bases\\RESPONSE.cs",
+              "RelativeDocumentMoniker": "SMS.Core\\Bases\\RESPONSE.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Core\\Bases\\RESPONSE.cs",
+              "RelativeToolTip": "SMS.Core\\Bases\\RESPONSE.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T00:46:07.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "RequestHandler.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Core\\Bases\\RequestHandler.cs",
+              "RelativeDocumentMoniker": "SMS.Core\\Bases\\RequestHandler.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Core\\Bases\\RequestHandler.cs",
+              "RelativeToolTip": "SMS.Core\\Bases\\RequestHandler.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T00:47:35.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "LogInCommand.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Core\\Features\\UserCore\\Command\\Entities\\LogInCommand.cs",
+              "RelativeDocumentMoniker": "SMS.Core\\Features\\UserCore\\Command\\Entities\\LogInCommand.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Core\\Features\\UserCore\\Command\\Entities\\LogInCommand.cs",
+              "RelativeToolTip": "SMS.Core\\Features\\UserCore\\Command\\Entities\\LogInCommand.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T05:42:57.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "RoleValidation.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Core\\Validations\\RoleValidation.cs",
+              "RelativeDocumentMoniker": "SMS.Core\\Validations\\RoleValidation.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Core\\Validations\\RoleValidation.cs",
+              "RelativeToolTip": "SMS.Core\\Validations\\RoleValidation.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T03:36:45.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "UnitOfWorkValidation.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Core\\UnitOfWorkValidation\\UnitOfWorkValidation.cs",
+              "RelativeDocumentMoniker": "SMS.Core\\UnitOfWorkValidation\\UnitOfWorkValidation.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Core\\UnitOfWorkValidation\\UnitOfWorkValidation.cs",
+              "RelativeToolTip": "SMS.Core\\UnitOfWorkValidation\\UnitOfWorkValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T00:46:08.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "AddUserCommand.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Core\\Features\\UserCore\\Command\\Entities\\AddUserCommand.cs",
+              "RelativeDocumentMoniker": "SMS.Core\\Features\\UserCore\\Command\\Entities\\AddUserCommand.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Core\\Features\\UserCore\\Command\\Entities\\AddUserCommand.cs",
+              "RelativeToolTip": "SMS.Core\\Features\\UserCore\\Command\\Entities\\AddUserCommand.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T07:24:39.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "RoleCommandHandler.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Core\\Features\\RoleCore\\Command\\Handlers\\RoleCommandHandler.cs",
+              "RelativeDocumentMoniker": "SMS.Core\\Features\\RoleCore\\Command\\Handlers\\RoleCommandHandler.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Core\\Features\\RoleCore\\Command\\Handlers\\RoleCommandHandler.cs",
+              "RelativeToolTip": "SMS.Core\\Features\\RoleCore\\Command\\Handlers\\RoleCommandHandler.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAUwDoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T03:43:58.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS\\Program.cs",
+              "RelativeDocumentMoniker": "SMS\\Program.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS\\Program.cs",
+              "RelativeToolTip": "SMS\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwCIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T22:18:35.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "AddRoleCommand.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Core\\Features\\RoleCore\\Command\\Entities\\AddRoleCommand.cs",
+              "RelativeDocumentMoniker": "SMS.Core\\Features\\RoleCore\\Command\\Entities\\AddRoleCommand.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Core\\Features\\RoleCore\\Command\\Entities\\AddRoleCommand.cs",
+              "RelativeToolTip": "SMS.Core\\Features\\RoleCore\\Command\\Entities\\AddRoleCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T03:34:53.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "20241114233359_initial.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Infrastructure\\Migrations\\20241114233359_initial.cs",
+              "RelativeDocumentMoniker": "SMS.Infrastructure\\Migrations\\20241114233359_initial.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Infrastructure\\Migrations\\20241114233359_initial.cs",
+              "RelativeToolTip": "SMS.Infrastructure\\Migrations\\20241114233359_initial.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAAAMgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T23:34:00.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "IUnitOfWorkValidation.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Core\\UnitOfWorkValidation\\IUnitOfWorkValidation.cs",
+              "RelativeDocumentMoniker": "SMS.Core\\UnitOfWorkValidation\\IUnitOfWorkValidation.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Core\\UnitOfWorkValidation\\IUnitOfWorkValidation.cs",
+              "RelativeToolTip": "SMS.Core\\UnitOfWorkValidation\\IUnitOfWorkValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T00:45:43.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "DepartmentValidation.cs",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS.Core\\Validations\\DepartmentValidation.cs",
+              "RelativeDocumentMoniker": "SMS.Core\\Validations\\DepartmentValidation.cs",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS.Core\\Validations\\DepartmentValidation.cs",
+              "RelativeToolTip": "SMS.Core\\Validations\\DepartmentValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T00:14:27.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\,Net Projects\\SMS\\SMS\\appsettings.json",
+              "RelativeDocumentMoniker": "SMS\\appsettings.json",
+              "ToolTip": "E:\\,Net Projects\\SMS\\SMS\\appsettings.json",
+              "RelativeToolTip": "SMS\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-14T22:16:22.744Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

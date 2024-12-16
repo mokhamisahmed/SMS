@@ -1,0 +1,17 @@
+E:\,Net Projects\SMS\SMS.Service\bin\Debug\net8.0\SMS.Service.deps.json
+E:\,Net Projects\SMS\SMS.Service\bin\Debug\net8.0\SMS.Service.dll
+E:\,Net Projects\SMS\SMS.Service\bin\Debug\net8.0\SMS.Service.pdb
+E:\,Net Projects\SMS\SMS.Service\bin\Debug\net8.0\SMS.Data.dll
+E:\,Net Projects\SMS\SMS.Service\bin\Debug\net8.0\SMS.Infrastructure.dll
+E:\,Net Projects\SMS\SMS.Service\bin\Debug\net8.0\SMS.Infrastructure.pdb
+E:\,Net Projects\SMS\SMS.Service\bin\Debug\net8.0\SMS.Data.pdb
+E:\,Net Projects\SMS\SMS.Service\obj\Debug\net8.0\SMS.Service.csproj.AssemblyReference.cache
+E:\,Net Projects\SMS\SMS.Service\obj\Debug\net8.0\SMS.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\,Net Projects\SMS\SMS.Service\obj\Debug\net8.0\SMS.Service.AssemblyInfoInputs.cache
+E:\,Net Projects\SMS\SMS.Service\obj\Debug\net8.0\SMS.Service.AssemblyInfo.cs
+E:\,Net Projects\SMS\SMS.Service\obj\Debug\net8.0\SMS.Service.csproj.CoreCompileInputs.cache
+E:\,Net Projects\SMS\SMS.Service\obj\Debug\net8.0\SMS.Serv.D908FEE2.Up2Date
+E:\,Net Projects\SMS\SMS.Service\obj\Debug\net8.0\SMS.Service.dll
+E:\,Net Projects\SMS\SMS.Service\obj\Debug\net8.0\refint\SMS.Service.dll
+E:\,Net Projects\SMS\SMS.Service\obj\Debug\net8.0\SMS.Service.pdb
+E:\,Net Projects\SMS\SMS.Service\obj\Debug\net8.0\ref\SMS.Service.dll
